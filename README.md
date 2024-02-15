@@ -20,6 +20,6 @@ source /path/to/colors.sh
 
 # After sourcing `colors.sh`, you can use the defined color variables in your script like so:
 
-```bash
 echo -e "${RED}This is some red text,${ENDCOLOR}"
 echo -e "${GREEN}And this is some green text${ENDCOLOR}"
+```
