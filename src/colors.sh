@@ -1,3 +1,4 @@
+
 # Regular Colors
 ENDCOLOR='\e[0m'
 BLACK='\e[0;30m'        # Black
