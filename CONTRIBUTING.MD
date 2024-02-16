@@ -1,4 +1,4 @@
-# Contributing to recipe-viewer 🚀
+# Contributing to ESI-event 🚀
 
 Thank you for considering contributing to this project! We welcome contributions from everyone. 🙌
 
